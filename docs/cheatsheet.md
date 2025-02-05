@@ -182,3 +182,7 @@ editor   no
 ```
 
 - 挂载`btrfs`时可选择强制压缩`compress-force=zstd`
+
+## vim支持系统剪切板
+
+https://github.com/jasonccox/vim-wayland-clipboard
